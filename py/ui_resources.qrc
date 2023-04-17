@@ -1,0 +1,11 @@
+<RCC>
+  <qresource lang="jphphy" prefix="font">
+    <file>res/font/Turpis-Regular.ttf</file>
+    <file>res/font/XTypewriter-Bold.ttf</file>
+    <file>res/font/XTypewriter-Regular.ttf</file>
+  </qresource>
+  <qresource lang="png" prefix="image">
+    <file>res/image/essay.png</file>
+    <file>res/image/timer.png</file>
+  </qresource>
+</RCC>
